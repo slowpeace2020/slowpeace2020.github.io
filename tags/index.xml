@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 08:57:30 -0400</lastBuildDate>
     <atom:link href="https://slowpeace2020.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concurrent</title>
+      <link>https://slowpeace2020.github.io/tags/concurrent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://slowpeace2020.github.io/tags/concurrent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distribute</title>
+      <link>https://slowpeace2020.github.io/tags/distribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://slowpeace2020.github.io/tags/distribute/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Design</title>
+      <link>https://slowpeace2020.github.io/tags/system-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://slowpeace2020.github.io/tags/system-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>https://slowpeace2020.github.io/tags/interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://slowpeace2020.github.io/tags/interview/</guid>
+      <description></description>
+    </item>
     <item>
       <title>项目管理</title>
       <link>https://slowpeace2020.github.io/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/</link>
